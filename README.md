@@ -8,7 +8,7 @@
 - **Custom Animations:** Smooth, interactive animations using `@keyframes`.
 - **Clean UI:** Simple navigation, clear sections for services, clients, and contact.
 
-## Sections
+## Sections 
 
 - **Navbar:** Sticky navigation bar with clear links.
 - **Home:** Welcome message with a prominent call-to-action button.
