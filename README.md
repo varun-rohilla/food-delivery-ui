@@ -22,3 +22,7 @@
 - **HTML**
 - **CSS** (including media queries for responsiveness).
 - **Google Fonts**
+
+## Live Demo
+Check out the live demo of the project here:
+[Live Demo](https://food-delivery-ui.netlify.app/)
